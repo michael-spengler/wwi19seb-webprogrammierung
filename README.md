@@ -15,6 +15,19 @@
 ## Projektvorschläge
 Kann grundsätzlich von den Studierenden kommen solange die o.g. Technologien und die von Herrn Pagnia (Verteilte Systeme) gewünschten Schwerpunkte erkundet werden können.
 
+Siehe Issues Tab... 
+
+### Skills des Dozenten
+1. Chat Bots
+2. Machine Learning
+3. Blockchain Development (eigene Währung)
+4. Web Apps
+5. Web Harvesting / Web Crawling (to solve the chicken and egg problem)
+6. Natural Language Processing (NLP)
+
+
+
+
 ## Telegram
 https://t.me/joinchat/ZMUpP9w5V0IzNDky
 
