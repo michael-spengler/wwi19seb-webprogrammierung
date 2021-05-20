@@ -1,0 +1,47 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1621510346482" ID="ID_1105057402" MODIFIED="1621510795671" TEXT="Web Programmierung">
+<node CREATED="1621510745823" ID="ID_38402878" MODIFIED="1621510748647" POSITION="right" TEXT="Basics">
+<node CREATED="1621510730542" ID="ID_861584718" MODIFIED="1621510737887" TEXT="HTML ">
+<node CREATED="1621511951015" ID="ID_1734891979" MODIFIED="1621511960503" TEXT="Strukturieren einer WebSeite"/>
+</node>
+<node CREATED="1621510740791" ID="ID_786238762" MODIFIED="1621510742943" TEXT="CSS">
+<node CREATED="1621511965487" ID="ID_194931791" MODIFIED="1621511980391" TEXT="Styling einer WebSeite (Farbe, Schriftart...)"/>
+</node>
+<node CREATED="1621510658200" ID="ID_904463748" MODIFIED="1621510668863" TEXT="JavaScript">
+<node CREATED="1621511013758" ID="ID_271912481" MODIFIED="1621511019343" TEXT="basteln"/>
+<node CREATED="1621511984447" ID="ID_1611785497" MODIFIED="1621511994887" TEXT="Funktionalit&#xe4;t einer WebSeite"/>
+</node>
+<node CREATED="1621511001198" ID="ID_1190505429" MODIFIED="1621511006063" TEXT="TypeScript">
+<node CREATED="1621511030206" ID="ID_900958598" MODIFIED="1621511060319" TEXT="transpiliert nach JavaScript und bringt mehr Objektorientierung und Typ Sicherheit ins Spiel"/>
+</node>
+</node>
+<node CREATED="1621510760151" ID="ID_1653173369" MODIFIED="1621510770847" POSITION="right" TEXT="Frontend Entwicklungsframeworks">
+<node CREATED="1621510726726" ID="ID_932493342" MODIFIED="1621510728391" TEXT="React, Vue, Angular"/>
+<node CREATED="1621510821070" ID="ID_888994929" MODIFIED="1621510826263" TEXT="UI5"/>
+</node>
+<node CREATED="1621510786166" ID="ID_1713536183" MODIFIED="1621510793831" POSITION="left" TEXT="Frontend Entwicklung">
+<node CREATED="1621510830702" ID="ID_483914475" MODIFIED="1621510839343" TEXT="Fokus auf User Interaktionen"/>
+<node CREATED="1621510860742" ID="ID_563415300" MODIFIED="1621510987983" TEXT="Entwicklung von Code, der im Frontend (e.g. im Browser) ausgef&#xfc;hrt / interpretiert wird"/>
+<node CREATED="1621511351239" ID="ID_932186730" MODIFIED="1621511352735" TEXT="bootstrap"/>
+</node>
+<node CREATED="1621510797022" ID="ID_1291437487" MODIFIED="1621510801687" POSITION="left" TEXT="Backend Entwicklung">
+<node CREATED="1621510882487" ID="ID_195999166" MODIFIED="1621510910207" TEXT="Entwicklung von Code, der auf einem Server (=ein m&#xf6;gliches Backend) ausgef&#xfc;hrt wird"/>
+<node CREATED="1621511359183" ID="ID_1007306353" MODIFIED="1621511372791" TEXT="API Entwicklungen / Berechtigungen...">
+<node CREATED="1621511466367" ID="ID_317868257" MODIFIED="1621511471335" TEXT="OAuth"/>
+</node>
+</node>
+<node CREATED="1621511071318" ID="ID_1315468236" MODIFIED="1621511074175" POSITION="right" TEXT="Exkurse">
+<node CREATED="1621511075959" ID="ID_1113909784" MODIFIED="1621511088695" TEXT="transpilieren">
+<node CREATED="1621511129503" ID="ID_1064627607" MODIFIED="1621511183263" TEXT="&#xdc;bersetzen von einer human programming language (z.B. TypeScript) zu javascript (&#xe4;hnliches Abstraktionslevel)"/>
+</node>
+<node CREATED="1621511092263" ID="ID_975607297" MODIFIED="1621511095911" TEXT="kompilieren">
+<node CREATED="1621511102423" ID="ID_1873232285" MODIFIED="1621511124791" TEXT="&#xdc;bersetzen von human programming language - zu Maschinencode"/>
+</node>
+</node>
+<node CREATED="1621511320143" ID="ID_1206046898" MODIFIED="1621511323927" POSITION="right" TEXT="App Ideen"/>
+<node CREATED="1621512062583" ID="ID_508527087" MODIFIED="1621512065808" POSITION="left" TEXT="Sonstiges">
+<node CREATED="1621511220103" ID="ID_1522921016" MODIFIED="1621511224071" TEXT="model-view-controller"/>
+</node>
+</node>
+</map>
