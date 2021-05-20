@@ -15,9 +15,6 @@
 ## Projektvorschläge
 Kann grundsätzlich von den Studierenden kommen solange die o.g. Technologien und die von Herrn Pagnia (Verteilte Systeme) gewünschten Schwerpunkte erkundet werden können.
 
-## Recommended Videos
-to be updated
-
 ## Telegram
 https://t.me/joinchat/ZMUpP9w5V0IzNDky
 
@@ -26,6 +23,13 @@ https://t.me/joinchat/ZMUpP9w5V0IzNDky
 2. https://github.com account  
 3. https://telegram.org  
 4. https://brave.com  
+5. https://nodejs.org/en/ (recommended version)
+
+## Empfehlungen auf dem Pfad der Erkenntnis
+1. Investiere ein paar Stunden in freies Experimentieren bei [w3 schools](https://www.w3schools.com)   
+2. Ziehe Dir [dieses Video](https://www.youtube.com/watch?v=mhnpeOLiQTg) rein
+3. Experimentiere mit NodeJS und Deno 
+4. Stelle Fragen per Telegram Channel oder per stackoverflow - auch wenn die Fragen vielleicht "dumm" erscheinen.  
 
 
 ## Bewertung
