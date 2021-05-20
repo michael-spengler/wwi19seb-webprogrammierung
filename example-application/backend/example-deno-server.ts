@@ -12,4 +12,4 @@ app.get("/getISSPosition", async function (req, res) {
     res.send(result);
 });
 
-app.listen(3000, () => console.log("server has started on http://localhost:3000 🚀"));
+app.listen(3000, () => console.log("server has started on http://localhost:3036 🚀"));
