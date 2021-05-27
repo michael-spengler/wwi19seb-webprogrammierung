@@ -1,15 +1,49 @@
 <html>
-    
-    <head>
-        <title>
-            Supergeile App
-        </title>
-    </head>
 
-    <body style="background-color: pink;">
-        <div style="text-align: center;">
+<head>
+    <title>
+        Supergeile App
+    </title>
+
+    <style>
+        body {
+            background-color: lightblue;
+            text-align: center;
+        }
+
+        h1 {
+            color: white;
+        }
+
+        p {
+            font-family: verdana;
+            font-size: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <h1>
             Hallo liebe Studenten
-        </div>
-    </body>
+        </h1>
+    </div>
+
+    Click the button to get the current ISS Position
+
+    <br>
+    <button onclick="myFunction()">Click Me!</button>
+
+    <p id="resultArea"></p>
+
+    <script>
+        async function myFunction() {
+            const apiResult = await (await fetch('http://localhost:3036/getISSPosition')).json()
+            const x = document.getElementById("resultArea");
+            x.innerHTML = `Die ISS befindet sich gerade über dem folgenden Punkt: ${JSON.stringify(apiResult.iss_position)}`
+        }
+    </script>
+
+</body>
 
 </html>
