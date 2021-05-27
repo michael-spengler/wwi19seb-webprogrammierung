@@ -99,5 +99,8 @@ E.g. content which comes from fb groups (https://www.facebook.com/groups/1961778
 6. Image Recognition erläutern
 Could also be used in the context of solving the chicken and egg problem (5)  
 
+### 03.06.2021
+1. GitHub Actions based Deployment vorstellen
 
+2. tbd... 
 
