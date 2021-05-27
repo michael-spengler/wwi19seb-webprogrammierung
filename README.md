@@ -91,9 +91,13 @@ https://github.com/michael-spengler/wwi19seb-webprogrammierung/blob/main/example
 
 4. Invitation based Authentication vorstellen
 
-5. Web Harvesting erläutern
+5. Web Harvesting erläutern  
+Solving the Chicken And Egg Challenge --> getting content into your application  
+E.g. content which comes from fb groups (https://www.facebook.com/groups/196177820486972/events)   
+5.1 https://codecept.io/quickstart/
 
 6. Image Recognition erläutern
+Could also be used in the context of solving the chicken and egg problem (5)  
 
 
 
