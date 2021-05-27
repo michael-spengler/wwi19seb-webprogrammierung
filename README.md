@@ -85,8 +85,9 @@ https://github.com/michael-spengler/wwi19seb-webprogrammierung/blob/main/example
 
 2. Sicherstellen, dass Deno bei jedem funktioniert
 
-3. die erste angular app entwickeln
+3. die erste angular app entwickeln  
 3.1 https://angular.io/guide/setup-local 
+3.2 Sicherstellen, dass dies bei jedem funktioniert 
 
 4. Invitation based Authentication vorstellen
 

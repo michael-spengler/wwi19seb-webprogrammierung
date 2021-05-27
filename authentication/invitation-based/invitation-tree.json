@@ -1,0 +1,37 @@
+{
+    "gitHubUser": "michael-spengler",
+    "joinedOn": "2021-05-27T12:56:58.573Z",
+    "walleAddress": "0x1b73C67719aC01D761fa711898a45303dFD3C813",
+    "invitees": [
+        {
+            "gitHubUser": "SiepmannC",
+            "joinedOn": "2021-05-27T12:56:58.573Z",
+            "walleAddress": "tbd",
+            "invitees": [
+                {
+                    "gitHubUser": "tbd",
+                    "joinedOn": "2021-05-27T12:56:58.573Z",
+                    "walleAddress": "tbd",
+                    "invitees": [
+                        
+                    ]
+                }                    
+            ]
+        }, 
+        {
+            "gitHubUser": "heroPhil",
+            "joinedOn": "2021-05-27T12:56:58.573Z",
+            "walleAddress": "tbd",
+            "invitees": [
+                {
+                    "gitHubUser": "tbd",
+                    "joinedOn": "2021-05-27T12:56:58.573Z",
+                    "walleAddress": "tbd",
+                    "invitees": [
+                        
+                    ]
+                }
+            ]
+        }        
+    ]
+}
