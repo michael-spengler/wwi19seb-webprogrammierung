@@ -38,7 +38,9 @@
 
     <script>
         async function myFunction() {
-            const apiResult = await (await fetch('http://localhost:3036/getISSPosition')).json()
+            const baseURL = 'http://65.21.110.40' // for the www demo
+            // const baseURL = 'http://localhost' if you want to test it locally
+            const apiResult = await (await fetch(`${baseURL}:3036/getISSPosition`)).json()
             const x = document.getElementById("resultArea");
             x.innerHTML = `Die ISS befindet sich gerade über dem folgenden Punkt: ${JSON.stringify(apiResult.iss_position)}`
         }
