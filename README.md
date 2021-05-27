@@ -73,3 +73,25 @@ Abgabe: Spätestens am letzten Tag des Theoriesemesters
 | ? | ? | ? | ? | ? | ? |
 | ? | ? | ? | ? | ? | ? |
 | ? | ? | ? | ? | ? | ? |
+
+## Vorlesungen
+### 20.05.2021
+
+![wwi19-seb-20052021](https://user-images.githubusercontent.com/43786652/119804240-746a3000-bee0-11eb-8024-9d37e24709e8.png)
+
+### 27.05.2021
+1. Sicherstellen, dass jeder nachvollziehen kann was das folgende Programm tut.
+https://github.com/michael-spengler/wwi19seb-webprogrammierung/blob/main/example-application/backend/example-deno-server.ts
+
+2. Sicherstellen, dass Deno bei jedem funktioniert
+
+3. die erste angular app entwickeln
+
+4. Invitation based Authentication vorstellen
+
+5. Web Harvesting erläutern
+
+6. Image Recognition erläutern
+
+
+
