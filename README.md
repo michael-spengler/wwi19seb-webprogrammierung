@@ -100,7 +100,7 @@ E.g. content which comes from fb groups (https://www.facebook.com/groups/1961778
 Could also be used in the context of solving the chicken and egg problem (5)  
 
 ### 03.06.2021
-1. GitHub Actions based Deployment vorstellen
+1. Die erste vuejs app entwickeln
+2. GitHub Actions & GitHub Pages based Deployment vorstellen
 
-2. tbd... 
 
