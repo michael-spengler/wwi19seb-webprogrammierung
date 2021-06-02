@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath: "/wwi19seb-webprogrammierung/example-vue-app/",
+    publicPath: "/wwi19seb-webprogrammierung/",
     transpileDependencies: ["vuetify"],
     pwa: {
       themeColor: "#363636",
