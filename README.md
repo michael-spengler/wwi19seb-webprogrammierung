@@ -19,11 +19,11 @@ Siehe Issues Tab...
 
 ### Skills des Dozenten
 1. Chat Bots
-2. Machine Learning
-3. Blockchain Development (eigene Währung)
-4. Web Apps
-5. Web Harvesting / Web Crawling (to solve the chicken and egg problem)
-6. Natural Language Processing (NLP)
+2. Blockchains / DLT / Smart Contract Development
+3. Progressive Web Apps
+4. Web Harvesting / Web Crawling (e.g. to solve the chicken and egg problem)
+5. Natural Language Processing (NLP)
+6. Machine Learning (Basics)
 
 
 
@@ -37,6 +37,7 @@ https://t.me/joinchat/ZMUpP9w5V0IzNDky
 3. https://telegram.org  
 4. https://brave.com  
 5. https://nodejs.org/en/ (recommended version)
+6. https://deno.land/
 
 ## Empfehlungen auf dem Pfad der Erkenntnis
 1. Investiere ein paar Stunden in freies Experimentieren bei [w3 schools](https://www.w3schools.com)   
@@ -99,7 +100,7 @@ E.g. content which comes from fb groups (https://www.facebook.com/groups/1961778
 6. Image Recognition erläutern
 Could also be used in the context of solving the chicken and egg problem (5)  
 
-### 03.06.2021
+### 10.06.2021
 1. Sicherstellen, dass das [vue cli](https://v3.vuejs.org/guide/installation.html#cli) bei jedem installiert werden konnte und funktioniert
 ```sh
 npm install -g @vue/cli
