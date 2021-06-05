@@ -1,0 +1,21 @@
+
+POST http://localhost:3010/train HTTP/1.1
+content-type: application/json
+
+{
+    "documents": [
+        {
+            "languageCode": "en",
+            "input": "Hi",
+            "intent": "greetings.hi"
+        }
+    ],
+    "answers": [
+        {
+            "languageCode": "en",
+            "intent": "greetings.hi",
+            "output": ":) Hi"
+        }
+    ],
+    "languageCodes": ["en"]
+}

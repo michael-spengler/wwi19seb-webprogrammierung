@@ -112,4 +112,6 @@ npm init vite-app example-vue-app
 
 3. GitHub Actions & GitHub Pages based Deployment vorstellen
 
+4. Chatbot im Kontext der FFC vorstellen
+
 
