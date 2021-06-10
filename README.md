@@ -110,8 +110,19 @@ npm install -g @vue/cli
 npm init vite-app example-vue-app
 ```
 
-3. GitHub Actions & GitHub Pages based Deployment vorstellen
+3. Ein Frontend Beispiel für das Verteilte Systeme Szenario entwerfen
+**User Stories*
+As a traveler I want to book a flight and a hotel room in order to enjoy a relaxed vacation
 
-4. Chatbot im Kontext der FFC vorstellen
+We will use a REST API 
+
+If the booking of the hotel room goes wrong also the booking of the flight shall be cancelled.
+
+
+
+
+4. GitHub Actions & GitHub Pages based Deployment vorstellen
+
+5. Chatbot im Kontext der FFC vorstellen
 
 

@@ -7,8 +7,12 @@
 
 import { opine } from "https://deno.land/x/opine@1.3.4/mod.ts";
 import { Request } from 'https://deno.land/x/request@1.3.0/request.ts'
+import { opineCors } from "https://deno.land/x/cors/mod.ts";
+
 
 const app = opine();
+
+app.use(opineCors())
 
 app.get("/getISSPosition", async function (req, res) {
 
