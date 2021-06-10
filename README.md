@@ -119,10 +119,27 @@ We will use a REST API
 If the booking of the hotel room goes wrong also the booking of the flight shall be cancelled.
 
 
-
-
 4. GitHub Actions & GitHub Pages based Deployment vorstellen
 
 5. Chatbot im Kontext der FFC vorstellen
 
 
+**Entscheidung**
+Es steht jedem frei ob er sich bei mir auf das "VS Frontend fokussiert" oder zu einem "freestyle projekt" beiträgt oder zu beiden.
+
+Bei den freestyle projekten könnt ihr gerne sehr triviale backend implementierungen (z.B. keine Datenbank, keine Normalisiert bzgl. Datenmodell)
+Qualities auf die ich jedoch immer wert lege sind:
+
+1. High separation of concerns
+2. TypeSafety
+3. High Cohesion und Loose Coupling (interfaces) 
+
+Wir brauch die Endpoints + die zu erwartenden Daten
+
+
+
+### 17.06.2021
+tbd
+
+### 24.06.2021
+tbd
