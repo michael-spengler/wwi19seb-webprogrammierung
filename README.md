@@ -46,35 +46,6 @@ https://t.me/joinchat/ZMUpP9w5V0IzNDky
 4. Stelle Fragen per Telegram Channel oder per stackoverflow - auch wenn die Fragen vielleicht "dumm" erscheinen.  
 
 
-## Bewertung
-Gemeinschaftsportfolioarbeit aus Verteilte Systeme (2/5) + Webprogrammierung (3/5)   
-Abgabe: Spätestens am letzten Tag des Theoriesemesters
-
-## Notenliste
-| Name | GitHub User | Ergebnisse | Punkte VS (max: ?) | Punkte WP (max: ?) | Note |
-| ------- | ------- | ------- | ---------- | ------- |------- | 
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-| ? | ? | ? | ? | ? | ? |
-
 ## Vorlesungen
 ### 20.05.2021
 
@@ -111,12 +82,18 @@ npm init vite-app example-vue-app
 ```
 
 3. Ein Frontend Beispiel für das Verteilte Systeme Szenario entwerfen
-**User Stories*
+**User Storiy**
 As a traveler I want to book a flight and a hotel room in order to enjoy a relaxed vacation
-
+If the booking of the hotel room goes wrong also the booking of the flight shall be cancelled and vice versa.
 We will use a REST API 
 
-If the booking of the hotel room goes wrong also the booking of the flight shall be cancelled.
+4. GitHub Actions & GitHub Pages based Deployment vorstellen
+
+5. Chatbot im Kontext der FFC vorstellen
+
+
+
+
 
 
 4. GitHub Actions & GitHub Pages based Deployment vorstellen
