@@ -81,10 +81,12 @@ npm install -g @vue/cli
 npm init vite-app example-vue-app
 ```
 
-3. GitHub Actions & GitHub Pages based Deployment vorstellen
+3. Ein Frontend Beispiel für das Verteilte Systeme Szenario entwerfen
 
-4. Chatbot im Kontext der FFC vorstellen
+4. GitHub Actions & GitHub Pages based Deployment vorstellen
 
-5. Ein Frontend Beispiel für das Verteilte Systeme Szenario entwerfen
+5. Chatbot im Kontext der FFC vorstellen
+
+
 
 
