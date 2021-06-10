@@ -85,4 +85,6 @@ npm init vite-app example-vue-app
 
 4. Chatbot im Kontext der FFC vorstellen
 
+5. Ein Frontend Beispiel für das Verteilte Systeme Szenario entwerfen
+
 
