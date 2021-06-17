@@ -17,6 +17,7 @@ export class AppComponent {
   public title = 'example-angular-app';
   public offers: IOffer[] = [{roomNumber: 1, rentalCarId: 10}, {roomNumber: 2, rentalCarId: 20}]
   public showList = false
+  public responseFromBackend = ""
 
   public constructor(private http: HttpClient) {
 
@@ -29,6 +30,12 @@ export class AppComponent {
       .subscribe((data: any) => {
         console.log(data)
       })
+
+      // assumption: booking successful
+      this.responseFromBackend = `Booking Successful. Enjoy your Vacation. Your confirmation ID is: 4711.`
+
+      // assumption: booking not successful
+
   }
 
 }
