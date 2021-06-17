@@ -55,6 +55,10 @@ https://t.me/joinchat/ZMUpP9w5V0IzNDky
 1. Sicherstellen, dass jeder nachvollziehen kann was das folgende Programm tut.
 https://github.com/michael-spengler/wwi19seb-webprogrammierung/blob/main/example-application/backend/example-deno-server.ts
 
+1.1. Mietwagenanbieter + Hotelzimmeranbieter
+Der Request geht an den Coordinator
+
+
 2. Sicherstellen, dass Deno bei jedem funktioniert
 
 3. die erste angular app entwickeln  
