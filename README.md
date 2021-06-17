@@ -112,7 +112,7 @@ Wir brauchen die Endpoints + die zu erwartenden Daten
 
 
 ### 17.06.2021
-1. Das [Angular basierte Beispielfrontend](https://github.com/michael-spengler/wwi19seb-webprogrammierung/tree/main/example-two-phase-commit-showcase-angular) an eines der Two-Phase-Commit Backends andbinden.
+1. Das [Angular basierte Beispielfrontend](https://github.com/michael-spengler/wwi19seb-webprogrammierung/tree/main/example-two-phase-commit-showcase-angular) an eines der Two-Phase-Commit Backends anbinden.
 
 2. [Svelte](https://svelte.dev/) vorstellen und grob mit angular, react und vue [vergleichen](https://www.youtube.com/watch?v=DZyWNS4fVE0&t=58s)  
 
@@ -136,6 +136,7 @@ Umfrage Ergebnis Deep Dives: Angular (18) / React (7) / Deno (2) / Svelte (1)
 
 Exkurs: Argumente aus der Crowd für React
 Gut angefühlt (evtl. einfach weil wir tief drin waren)
+Auszug aus einem Video zum Thema angular vs. react: https://youtu.be/khhRY2vZGKs?t=273 
 
 Investiere in Technologien, die mit einer hohen Wahrscheinlichkeit eine long term mainstream adoption erreichen und bei denen "design for flexibility" built in ist. ... Weil dadurch das gesamte Wertschöpfungspotential m.E. maximal ist --> Invest in non-proprietary technologies.
 
@@ -144,7 +145,6 @@ Parent - Child Components + Component Interaction
 Angular - Logarithmische Lernkurve 
 
 7. Zeit für Gruppenarbeiten an FreeStyle Projekten und an den Two-Phase-Commit showcases
-
 
 ### 24.06.2021
 TSLint / static code checks automation... (husky)
