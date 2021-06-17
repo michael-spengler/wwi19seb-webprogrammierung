@@ -129,9 +129,38 @@ Wir brauchen die Endpoints + die zu erwartenden Daten
 snel create example-svelte-app
 ```
 
-4. Die Inhalte der vorangegangenen Vorlesungen grob wiederholen
+4. Typische Technologieentscheidungen in der Web Entwicklung
+4.1. Welches Frontend (wie soll der User mit meiner Web App interagieren? e.g. Browser, Telegram Chatbot, ...)
+4.2. Brauche ich ein Backend? Wenn ja: Welche Laufzeitumgebung soll das Backend nutzen? 
+4.3. Brauche ich eine Persistenz für Anwendungsdaten? Wenn ja: Brauche ich eine Datenbank?
 
-5. Zeit für Gruppenarbeiten an FreeStyle Projekten und an den Two-Phase-Commit showcases
+5. Die Inhalte der vorangegangenen Vorlesungen grob wiederholen
+
+6. Zeit für Gruppenarbeiten an FreeStyle Projekten und an den Two-Phase-Commit showcases
+
+Feedback an Spengler:
+Grundsätzlich ist es gut vieles Innovatives kennenzulernen - gleichzeitig wäre es wertvoll etwas tiefer in ausgewählte Technologien einzutauchen!!
+
+Umfrage Ergebnis: Ausgewählte Deep Dives
+Umfrage Ergebnis Deep Dives: Angular (18) / React (7) / Deno (2) / Svelte (1)
+
+Exkurs: Argumente aus der Crowd für React
+Gut angefühlt (evtl. einfach weil wir tief drin waren)
+
+Investiere in Technologien, die mit einer hohen Wahrscheinlichkeit eine long term mainstream adoption erreichten und "design for flexibility" built in ist. ... Weil dadurch das gesamte Wertschöpfungspotential m.E. maximal ist.
+
+7. Deep Dive Angular
+Parent - Child Components + Component Interaction
+Angular - Logarithmische Lernkurve 
+
+
+
+
+
+
+
+
+Frage: In welche Technologie sollen wir tiefer eintauchen?
 
 
 ### 24.06.2021

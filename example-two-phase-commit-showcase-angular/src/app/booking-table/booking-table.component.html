@@ -1,0 +1,28 @@
+<table class="center"> 
+    <tr>
+      <th>
+        Room Number
+      </th>
+      <th>
+        Rental Car ID
+      </th>
+      <th>
+        Book
+      </th>
+    </tr>
+    <tr *ngFor="let offer of offers">
+      <td>
+        {{offer.roomNumber}}
+      </td>
+      <td>
+        {{offer.rentalCarId}}
+      </td>
+      <td>
+        <button (click)="bookOffer(offer)">Book Now</button>
+      </td>
+    </tr>
+  </table>
+  
+  <div id="response">
+    {{responseFromBackend}}
+  </div>

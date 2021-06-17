@@ -4,6 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "fritz": "echo fritz is running && npm run start",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",

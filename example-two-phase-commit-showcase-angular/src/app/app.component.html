@@ -3,33 +3,10 @@
     Hey we're going to Ibiza
   </h1>
 
-    <table class="center"> 
-      <tr>
-        <th>
-          Room Number
-        </th>
-        <th>
-          Rental Car ID
-        </th>
-        <th>
-          Book
-        </th>
-      </tr>
-      <tr *ngFor="let offer of offers">
-        <td>
-          {{offer.roomNumber}}
-        </td>
-        <td>
-          {{offer.rentalCarId}}
-        </td>
-        <td>
-          <button (click)="bookOffer(offer)">Book Now</button>
-        </td>
-      </tr>
-    </table>
-    
-    <div id="response">
-      {{responseFromBackend}}
-    </div>
+  <app-our-special-supercharged-component ourFancyText="Get Fancy Now" (buttonClicked)="onButtonClicked($event)"></app-our-special-supercharged-component>
+  
+  <p><br></p>
+  
+  <app-booking-table></app-booking-table>
   </div>
   
