@@ -1,0 +1,30 @@
+<div id="bookingApp">
+  <h1>
+    Hey we're going to Ibiza
+  </h1>
+
+    <table class="center"> 
+      <tr>
+        <th>
+          Room Number
+        </th>
+        <th>
+          Flight Number
+        </th>
+        <th>
+          Book
+        </th>
+      </tr>
+      <tr *ngFor="let offer of offers">
+        <td>
+          {{offer.roomNumber}}
+        </td>
+        <td>
+          {{offer.flightNumber}}
+        </td>
+        <td>
+          <button (click)="bookOffer(offer)">Book Now</button>
+        </td>
+      </tr>
+    </table>
+  </div>

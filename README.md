@@ -104,19 +104,26 @@ We will use a REST API
 **Entscheidung**
 Es steht jedem frei ob er sich bei mir auf das "VS Frontend fokussiert" oder zu einem "freestyle projekt" beiträgt oder zu beiden.
 
-Bei den freestyle projekten könnt ihr gerne sehr triviale backend implementierungen (z.B. keine Datenbank, keine Normalisiert bzgl. Datenmodell)
-Qualities auf die ich jedoch immer wert lege sind:
+Bei den freestyle projekten könnt ihr gerne sehr triviale backend implementierungen (z.B. keine Datenbank, keine Normalisiert bzgl. Datenmodell). Ihr könnt sogar eine Client Only App entwickelnt - siehe z.B. [Fancy Flashcards Classic](https://github.com/fancy-flashcard/ffc).
+
+Qualitätsmerkmale auf welche ich jedoch immer wert lege sind:
 
 1. High separation of concerns
 2. TypeSafety
 3. High Cohesion und Loose Coupling (interfaces) 
 
-Wir brauch die Endpoints + die zu erwartenden Daten
-
+Wir brauchen die Endpoints + die zu erwartenden Daten
 
 
 ### 17.06.2021
-tbd
+1. [Svelte](https://svelte.dev/) vorstellen und grob mit angular, react und vue [vergleichen](https://www.youtube.com/watch?v=DZyWNS4fVE0&t=58s)  
+
+2. [Snel](https://github.com/crewdevio/Snel) vorstellen und eine example-svelte-app erstellen
+```sh
+snel create example-svelte-app
+```
+
+3. Eines der Two-Phase-Commit Backends andbinden
 
 ### 24.06.2021
 tbd

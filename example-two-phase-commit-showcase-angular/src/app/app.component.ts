@@ -12,6 +12,12 @@ export interface IRoomBooking {
   toDate: Date
 }
 
+export interface IOffer {
+  roomNumber: number,
+  flightNumber: number,
+  priceInEuro: number
+}
+
 
 @Component({
   selector: 'app-root',
@@ -21,8 +27,9 @@ export interface IRoomBooking {
 export class AppComponent {
 
   public title = 'example-angular-app';
-  public hotelRooms: IRoom[] = [{ roomNumber: 1, roomBookings: [] }, { roomNumber: 2, roomBookings: [] }, { roomNumber: 3, roomBookings: [] }, { roomNumber: 4, roomBookings: [] }]
-  public flightsToIbiza = ['202210701', '202210702', '202210703', '202210704']
+  public offers: IOffer[] = [{roomNumber: 1, flightNumber: 10, priceInEuro: 100}, {roomNumber: 2, flightNumber: 20, priceInEuro: 150}]
+  // public hotelRooms: IRoom[] = [{ roomNumber: 1, roomBookings: [] }, { roomNumber: 2, roomBookings: [] }, { roomNumber: 3, roomBookings: [] }, { roomNumber: 4, roomBookings: [] }]
+  // public flightsToIbiza = ['202210701', '202210702', '202210703', '202210704']
   public showList = false
 
   public constructor(private http: HttpClient) {
@@ -32,6 +39,16 @@ export class AppComponent {
   public alertSomething(): void {
     alert('hi studis')
     this.showList = true
+  }
+
+
+  public async bookOffer(offer: IOffer): Promise<void> {
+    confirm(`Do you want to book room: ${offer.roomNumber} and flight: ${offer.flightNumber}?`)
+
+    this.http.get('http://localhost:3036/getISSPosition')
+      .subscribe((data: any) => {
+        console.log(data)
+      })
   }
 
   public async bookRoom(room: IRoom): Promise<void> {
