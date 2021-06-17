@@ -116,14 +116,19 @@ Wir brauchen die Endpoints + die zu erwartenden Daten
 
 
 ### 17.06.2021
-1. [Svelte](https://svelte.dev/) vorstellen und grob mit angular, react und vue [vergleichen](https://www.youtube.com/watch?v=DZyWNS4fVE0&t=58s)  
+1. Das [Angular basierte Beispielfrontend](https://github.com/michael-spengler/wwi19seb-webprogrammierung/tree/main/example-two-phase-commit-showcase-angular) an eines der Two-Phase-Commit Backends andbinden.
 
-2. [Snel](https://github.com/crewdevio/Snel) vorstellen und eine example-svelte-app erstellen
+2. [Svelte](https://svelte.dev/) vorstellen und grob mit angular, react und vue [vergleichen](https://www.youtube.com/watch?v=DZyWNS4fVE0&t=58s)  
+
+3. [Snel](https://github.com/crewdevio/Snel) vorstellen und eine example-svelte-app erstellen
 ```sh
 snel create example-svelte-app
 ```
 
-3. Eines der Two-Phase-Commit Backends andbinden
+4. Die Inhalte der vorangegangenen Vorlesungen grob wiederholen
+
+5. Zeit für Gruppenarbeiten an FreeStyle Projekten und an den Two-Phase-Commit showcases
+
 
 ### 24.06.2021
 tbd
