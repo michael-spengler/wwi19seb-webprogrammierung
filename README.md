@@ -137,7 +137,7 @@ Umfrage Ergebnis Deep Dives: Angular (18) / React (7) / Deno (2) / Svelte (1)
 Exkurs: Argumente aus der Crowd für React
 Gut angefühlt (evtl. einfach weil wir tief drin waren)
 
-Investiere in Technologien, die mit einer hohen Wahrscheinlichkeit eine long term mainstream adoption erreichten und "design for flexibility" built in ist. ... Weil dadurch das gesamte Wertschöpfungspotential m.E. maximal ist.
+Investiere in Technologien, die mit einer hohen Wahrscheinlichkeit eine long term mainstream adoption erreichen und bei denen "design for flexibility" built in ist. ... Weil dadurch das gesamte Wertschöpfungspotential m.E. maximal ist --> Invest in non-proprietary technologies.
 
 6. Deep Dive Angular
 Parent - Child Components + Component Interaction
