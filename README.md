@@ -86,23 +86,15 @@ npm init vite-app example-vue-app
 ```
 
 3. Ein Frontend Beispiel für das Verteilte Systeme Szenario entwerfen
-**User Storiy**
+**User Story**
 As a traveler I want to book a flight and a hotel room in order to enjoy a relaxed vacation
 If the booking of the hotel room goes wrong also the booking of the flight shall be cancelled and vice versa.
 We will use a REST API 
 
-4. GitHub Actions & GitHub Pages based Deployment vorstellen
+4. GitHub Actions & GitHub Pages based Deployment vorstellen - siehe [FFC](https://github.com/fancy-flashcard/ffc)
 
 5. Chatbot im Kontext der FFC vorstellen
 
-
-
-
-
-
-4. GitHub Actions & GitHub Pages based Deployment vorstellen
-
-5. Chatbot im Kontext der FFC vorstellen
 
 
 **Entscheidung**
@@ -136,8 +128,6 @@ snel create example-svelte-app
 
 5. Die Inhalte der vorangegangenen Vorlesungen grob wiederholen
 
-6. Zeit für Gruppenarbeiten an FreeStyle Projekten und an den Two-Phase-Commit showcases
-
 Feedback an Spengler:
 Grundsätzlich ist es gut vieles Innovatives kennenzulernen - gleichzeitig wäre es wertvoll etwas tiefer in ausgewählte Technologien einzutauchen!!
 
@@ -149,19 +139,12 @@ Gut angefühlt (evtl. einfach weil wir tief drin waren)
 
 Investiere in Technologien, die mit einer hohen Wahrscheinlichkeit eine long term mainstream adoption erreichten und "design for flexibility" built in ist. ... Weil dadurch das gesamte Wertschöpfungspotential m.E. maximal ist.
 
-7. Deep Dive Angular
+6. Deep Dive Angular
 Parent - Child Components + Component Interaction
 Angular - Logarithmische Lernkurve 
 
-
-
-
-
-
-
-
-Frage: In welche Technologie sollen wir tiefer eintauchen?
+7. Zeit für Gruppenarbeiten an FreeStyle Projekten und an den Two-Phase-Commit showcases
 
 
 ### 24.06.2021
-tbd
+TSLint / static code checks automation... (husky)
