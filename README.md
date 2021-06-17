@@ -147,4 +147,8 @@ Angular - Logarithmische Lernkurve
 7. Zeit für Gruppenarbeiten an FreeStyle Projekten und an den Two-Phase-Commit showcases
 
 ### 24.06.2021
-TSLint / static code checks automation... (husky)
+1. TSLint / static code checks automation... (husky)
+2. Trading Bots (why manual trading seems not recommendable)
+3. Chatbots
+
+
