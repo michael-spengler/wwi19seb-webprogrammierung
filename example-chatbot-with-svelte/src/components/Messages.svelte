@@ -1,10 +1,5 @@
 <script>
-    let messages = [
-        {
-            bot: true,
-            text: "Guten Tag. Du kannst mir alle Fragen rund um Dein Studium an der DHBW stellen.",
-        },
-    ];
+    export let messages;
 </script>
 
 <div class="messageBox">
@@ -19,6 +14,7 @@
             </div>
         {/if}
     {/each}
+
 </div>
 
 <style>
@@ -33,7 +29,7 @@
         text-align: left;
     }
     .messageByUser {
-        padding-right: vw;
+        padding-right: 0.2vw;
         padding-top: 2vh;
         text-align: right;
     }

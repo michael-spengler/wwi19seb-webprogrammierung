@@ -150,5 +150,7 @@ Angular - Logarithmische Lernkurve
 1. TSLint / static code checks automation... (husky)
 2. Trading Bots (why manual trading seems not recommendable)
 3. Chatbots
+4. Show one possibility for Component Interaction in Svelte 
+5. Further Deep Dives into the Angular world
 
 

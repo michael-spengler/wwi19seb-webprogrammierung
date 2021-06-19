@@ -1,22 +1,39 @@
 <script>
+    let userInput = "";
 
+    export let sendMessage = () => {};
+    
+    function handleMessage() {
+        sendMessage(userInput)
+        userInput=""
+    }
 </script>
 
-
 <div class="inputArea">
-    <input type="text" name="" id="" style="width: 70vw" placeholder="Wie lauten die Grundsätze ordnungsmäßiger Buchführung?">
+    <!-- svelte-ignore a11y-autofocus -->
+    <input
+        bind:value={userInput}
+        on:keyup={e=>e.key==='Enter' && handleMessage(userInput)}
+        type="text"
+        name=""
+        id=""
+        style="width: 70vw"
+        placeholder="Enter your question here..."
+        autofocus
+    />
 
-    <button>Send</button>
+    <button
+        on:click={() => handleMessage()}>Send</button
+    >
 </div>
 
 <style>
+    .inputArea {
+        position: absolute;
+        bottom: 11px;
+    }
 
-.inputArea {
-    position: absolute;
-    bottom: 11px;
-}
-
-button {
-    width: 15vw
-}
+    button {
+        width: 15vw;
+    }
 </style>
