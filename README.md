@@ -147,10 +147,35 @@ Angular - Logarithmische Lernkurve
 7. Zeit für Gruppenarbeiten an FreeStyle Projekten und an den Two-Phase-Commit showcases
 
 ### 24.06.2021
-1. TSLint / static code checks automation... (husky)
+1. TSLint / static code checks automation...
+Potential [TSLINT Template](https://github.com/michael-spengler/tslint/blob/master/tslint.json)
+Potential automation support by adding commit hooks via [husky](https://www.npmjs.com/package/husky)
+
 2. Trading Bots (why manual trading seems not recommendable)
+Beispiel für [Sentiment Analyse](https://github.com/DHBWMannheim/MachineLearning) --> [Ergebnisse](https://ml.klopapier.exchange/sentiment/twitter)  
+Beispiel für [Technische Analyse](https://github.com/DHBWMannheim/MachineLearning) --> [Ergebnisse](https://ml.klopapier.exchange/technical/ETH-USD?days=1)  
+Beispiel für [Fundamental Analyse]() (tbd) Warren Buffet - was ist die Value Proposition? Wie ist das Timing von Meilensteinen...
+Beispiel für [Insider Trading]() (tbd) XRP + [ICP](https://coinmarketcap.com/currencies/internet-computer/)
+Beispiel für [Marktmanipulation]() (tbd) Die Manipulationsmasse ist in einem passenden Verhältnis zum Hebelwirkungsinstrument zu gestalten.
+
+Don't let FUD and FOMO guide you individually.
+
+Fee Schedule [Binance Futures](https://www.binance.com/en/support/faq/360033544231),
+
 3. Chatbots
-4. Show one possibility for Component Interaction in Svelte 
-5. Further Deep Dives into the Angular world
+Beispiel Implementierungen siehe [DHBW Learning Apps](https://github.com/michael-spengler/DHBW-Learning-Apps)
+
+4. Further Deep Dives into the Angular world
+[Lifecycle Hooks](https://angular.io/guide/lifecycle-hooks)
+
+5. Show one possibility for Component Interaction in Svelte 
+Beispiele siehe [DHBW Chatbot](https://github.com/michael-spengler/DHBW-Learning-Apps/blob/main/dhbw-chatbot/src/App.svelte#L92-L94) 
+
+6. Hinweis: Wenn möglich weitgehen "mobile first" entwickeln. Hintergrund: Es ist einfacher den Content auf einem großen Screen darzustellen - es kann dann allerdings sehr schwierig werden das "runterzudampfen". Etc....
+
+### 1.7.21 (13:30!!!!)
+1. Angular Deep Dive --> Angular Material / Bootstrap Grid (responsiveness)
+
+
 
 
