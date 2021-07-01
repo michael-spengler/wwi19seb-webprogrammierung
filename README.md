@@ -188,11 +188,12 @@ Beispiele siehe [DHBW Chatbot](https://github.com/michael-spengler/DHBW-Learning
 
 ### 8.7.21 (13:30!!!)
 1. (Check oder) Zusammenstöpseln der 2 phase commit Geschichte --> [Hier](https://github.com/michael-spengler/wwi19seb-webprogrammierung/blob/3da1812723b796c940c27354d3c5e60ce1b6880b/example-two-phase-commit-showcase-angular/src/app/booking-table/booking-table.component.ts) sollten wir den Backend Call implementieren   
-2. Review der Dance Planner in Svelte App  
-3. Update aus dem Crypto Bereich  
-4. Zeit für Zwischendemos aus den einzelnen Gruppen - Gemeinsame Erkundung zum Thema welche Note wäre aktuell passend... ?  
-5. Bedarfsorientierte Deep Dives  
-6. Zeit für die Gruppenarbeiten
+2. Test via: https://michael-spengler.github.io/wwi19seb-webprogrammierung/
+3. Review der Dance Planner in Svelte App  
+4. Update aus dem Crypto Bereich  
+5. Zeit für Zwischendemos aus den einzelnen Gruppen - Gemeinsame Erkundung zum Thema welche Note wäre aktuell passend... ?  
+6. Bedarfsorientierte Deep Dives  
+7. Zeit für die Gruppenarbeiten
 
 
 
