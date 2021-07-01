@@ -179,7 +179,8 @@ Beispiele siehe [DHBW Chatbot](https://github.com/michael-spengler/DHBW-Learning
 3. Develop a lightweight svelte based alternative  
 4. Deploy this lightweight alternative via GitHub Pages  
 5. Try to provide such a thing completely without a dedicated backend - fetch the data from the raw jsons on github instead...  
-6. Zeit für die Gruppenarbeiten
+6. Try the forms in issues based approach for event creation...  
+7. Zeit für die Gruppenarbeiten
 
 
 
