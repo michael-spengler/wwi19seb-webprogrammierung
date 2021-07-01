@@ -181,7 +181,8 @@ Beispiele siehe [DHBW Chatbot](https://github.com/michael-spengler/DHBW-Learning
 5. Try to provide such a thing completely without a dedicated backend - fetch the data from the raw jsons on github instead...  
 6. Try the forms in issues based approach for event creation...  
 7. Zeit für die Gruppenarbeiten  
-8. Exkurs zum Thema Sentiment Analyse --> [Sentiment Dashboard](http://h2933354.stratoserver.net/dashboard)
+8. Exkurs zum Thema Sentiment Analyse --> [Sentiment Dashboard](http://h2933354.stratoserver.net/dashboard)  
+9. Exkurs UI Mockup Creation Tool - z.B. https://balsamiq.cloud/#
 
 
 
