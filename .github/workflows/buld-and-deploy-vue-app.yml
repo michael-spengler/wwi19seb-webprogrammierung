@@ -23,5 +23,5 @@ jobs:
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages
-          FOLDER: example-two-phase-commit-showcase-angular/dist
+          FOLDER: example-two-phase-commit-showcase-angular/dist/example-angular-app
           # FOLDER: example-vue-app/dist
