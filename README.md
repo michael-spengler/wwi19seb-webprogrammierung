@@ -174,7 +174,12 @@ Beispiele siehe [DHBW Chatbot](https://github.com/michael-spengler/DHBW-Learning
 6. Hinweis: Wenn möglich weitgehen "mobile first" entwickeln. Hintergrund: Es ist einfacher den Content auf einem großen Screen darzustellen - es kann dann allerdings sehr schwierig werden das "runterzudampfen". Etc....
 
 ### 1.7.21 (13:30!!!!)
-1. Angular Deep Dive --> Angular Material / Bootstrap Grid (responsiveness)
+1. Angular Deep Dive --> Angular Material / Bootstrap Grid (responsiveness)  
+2. Analyse the angular based [Dance Planner Frontend](https://github.com/dance-planner/dance)   
+3. Develop a lightweight svelte based alternative  
+4. Deploy this lightweight alternative via GitHub Pages  
+5. Try to provide such a thing completely without a dedicated backend - fetch the data from the raw jsons on github instead...  
+6. Zeit für die Gruppenarbeiten
 
 
 
