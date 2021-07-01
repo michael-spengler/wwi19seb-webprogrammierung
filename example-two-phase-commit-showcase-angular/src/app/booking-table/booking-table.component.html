@@ -7,7 +7,16 @@
         Rental Car ID
       </th>
       <th>
+        Start Date
+      </th>
+      <th>
+        End Date
+      </th>
+      <th>
         Book
+      </th>
+      <th>
+        Reserve
       </th>
     </tr>
     <tr *ngFor="let offer of offers">
@@ -18,7 +27,16 @@
         {{offer.rentalCarId}}
       </td>
       <td>
+        {{offer.startDate}}
+      </td>
+      <td>
+        {{offer.endDate}}
+      </td>
+      <td>
         <button (click)="bookOffer(offer)">Book Now</button>
+      </td>
+      <td>
+        <button (click)="reserveOffer(offer)">Reserve Now</button>
       </td>
     </tr>
   </table>
