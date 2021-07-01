@@ -14,7 +14,8 @@ jobs:
 
       - name: Install and Build
         run: |
-          cd example-vue-app
+          cd example-two-phase-commit-showcase-angular
+          # cd example-vue-app
           npm install
           npm run build
       - name: Deploy
@@ -22,4 +23,5 @@ jobs:
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages
-          FOLDER: example-vue-app/dist
+          FOLDER: example-two-phase-commit-showcase-angular/dist/example-angular-app
+          # FOLDER: example-vue-app/dist
