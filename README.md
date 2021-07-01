@@ -182,7 +182,14 @@ Beispiele siehe [DHBW Chatbot](https://github.com/michael-spengler/DHBW-Learning
 6. Try the forms in issues based approach for event creation...  
 7. Zeit für die Gruppenarbeiten  
 8. Exkurs zum Thema Sentiment Analyse --> [Sentiment Dashboard](http://h2933354.stratoserver.net/dashboard)  
-9. Exkurs UI Mockup Creation Tool - z.B. https://balsamiq.cloud/#
+9. Exkurs UI Mockup Creation Tool - z.B. https://balsamiq.cloud/#  
+10. prepare the [frontend for the two phase commit](https://github.com/michael-spengler/wwi19seb-webprogrammierung/tree/main/example-two-phase-commit-showcase-angular)   
+
+
+### 8.7.21 (13:30!!!)
+1. (Check oder) Zusammenstöpseln der 2 phase commit Geschichte --> In [dieser Methode](https://github.com/michael-spengler/wwi19seb-webprogrammierung/blob/main/example-two-phase-commit-showcase-angular/src/app/booking-table/booking-table.component.ts#L24) sollten wir den Backend Call implementieren.
+
+
 
 
 
