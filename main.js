@@ -60,8 +60,6 @@ class OurSpecialSuperchargedComponentComponent {
         this.ourFancyText = "";
         this.buttonClicked = new _angular_core__WEBPACK_IMPORTED_MODULE_0__["EventEmitter"]();
     }
-    ngOnInit() {
-    }
     clickButton() {
         alert(`we'll inform the parent component right now that the user entered ${this.userInput} and clicked the button.`);
         this.buttonClicked.emit(this.userInput);
@@ -93,7 +91,7 @@ OurSpecialSuperchargedComponentComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED
                 templateUrl: './our-special-supercharged-component.component.html',
                 styleUrls: ['./our-special-supercharged-component.component.css']
             }]
-    }], function () { return []; }, { ourFancyText: [{
+    }], null, { ourFancyText: [{
             type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Input"]
         }], buttonClicked: [{
             type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Output"]
