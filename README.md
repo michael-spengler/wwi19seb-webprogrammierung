@@ -187,13 +187,38 @@ Beispiele siehe [DHBW Chatbot](https://github.com/michael-spengler/DHBW-Learning
 
 
 ### 8.7.21 (13:30!!!)
-1. (Check oder) Zusammenstöpseln der 2 phase commit Geschichte --> [Hier](https://github.com/michael-spengler/wwi19seb-webprogrammierung/blob/3da1812723b796c940c27354d3c5e60ce1b6880b/example-two-phase-commit-showcase-angular/src/app/booking-table/booking-table.component.ts) sollten wir den Backend Call implementieren   
-2. Test via: https://michael-spengler.github.io/wwi19seb-webprogrammierung/
-3. Review der Dance Planner in Svelte App  
-4. Update aus dem Crypto Bereich  
-5. Zeit für Zwischendemos aus den einzelnen Gruppen - Gemeinsame Erkundung zum Thema welche Note wäre aktuell passend... ?  
+1. Bewertungskriterien
+1.1. Anwendung funktioniert
+1.2. Code Qualität (High Cohesion / Loose Coupling (im Backend: Jede public methode als Interface Methode definieren) / Separation of Concerns (no spaghetti code))
+1.3. Dokumentation / Readme
+1.4. Goodies: Demo Video, Unit Tests (für viele ein must have)
+1.5. Viele technologische Skills genutzt  
+1.6. Exkurse: [Test Double Patterns](http://xunitpatterns.com/Test%20Double.html)
+2. (Check oder) Zusammenstöpseln der 2 phase commit Geschichte --> [Hier](https://github.com/michael-spengler/wwi19seb-webprogrammierung/blob/3da1812723b796c940c27354d3c5e60ce1b6880b/example-two-phase-commit-showcase-angular/src/app/booking-table/booking-table.component.ts) sollten wir den Backend Call implementieren   
+2.1 Mit standard post route
+2.2 Mit socket connection
+3. Test via: https://michael-spengler.github.io/wwi19seb-webprogrammierung/
+4. Erste Gruppen Zwischen Präsentationen mit konkretem Punktefeedback
+5. Update aus dem Crypto Bereich  
 6. Bedarfsorientierte Deep Dives  
 7. Zeit für die Gruppenarbeiten
+8. Kostenlose https Zertificate gibt's entweder via GitHub Pages based page provisioning oder per [certbot](https://certbot.eff.org/)
+9. Client Side Password Hashing 
+
+
+### 15.7.21
+1. Update zum svelte based Dance Planner
+
+### 22.7.21 (Letzte Vorlesung)
+
+
+### Abschlusspräsentationen (gerne 2-3 Wochen nach der letzten Vorlesung)
+
+
+
+
+
+
 
 
 

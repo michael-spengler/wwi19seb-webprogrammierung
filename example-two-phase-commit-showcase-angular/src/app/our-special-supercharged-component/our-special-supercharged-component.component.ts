@@ -5,18 +5,12 @@ import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
   templateUrl: './our-special-supercharged-component.component.html',
   styleUrls: ['./our-special-supercharged-component.component.css']
 })
-export class OurSpecialSuperchargedComponentComponent implements OnInit {
+export class OurSpecialSuperchargedComponentComponent {
 
   @Input() public ourFancyText = ""
   @Output() public buttonClicked = new EventEmitter<string>();
 
   public userInput: any
-
-  constructor() { }
-
-  public ngOnInit(): void {
-  }
-
 
   public clickButton(): void {
     alert(`we'll inform the parent component right now that the user entered ${this.userInput} and clicked the button.`)
