@@ -207,12 +207,11 @@ Beispiele siehe [DHBW Chatbot](https://github.com/michael-spengler/DHBW-Learning
 
 
 ### 15.7.21
-1. Update zum svelte based Dance Planner
-2. CORS Cross Origin Ressource Sharing
-3. Binance Smart Chain & Ethereum Blockchain
-4. Gruppenzwischendemos
-5. angular deep dive - post requests...
-6. spontan
+1. CORS Cross Origin Ressource Sharing
+2. Binance Smart Chain & Ethereum Blockchain
+3. Gruppenzwischendemos
+4. angular deep dive - post requests...
+5. spontan
  
 
 ### 22.7.21 (Letzte Vorlesung)
