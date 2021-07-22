@@ -215,6 +215,18 @@ Beispiele siehe [DHBW Chatbot](https://github.com/michael-spengler/DHBW-Learning
  
 
 ### 22.7.21 (Letzte Vorlesung)
+1. Gruppenpräsentationen  
+2. PA2 Anmeldungen finalisieren  
+3. Optional: Vorbereitung mündl. PA2 Prüfung  
+3.1. Was ist der Unterschied zwischen kompilieren und transpilieren?  
+3.2. ISO / OSI 7 Schichten Modell  
+3.3. Wozu gibt es Normalisierung im Kontext der Datenmodellierung?  
+3.4. Welche Frontend Entwicklungsframeworks kennen Sie?  
+3.5. Welche Laufzeitumgebungen kennen Sie? Z.B. NodeJS, Deno....   
+3.6. Wonach ist die Aktiv Seite der Bilanz gegliedert?   
+3.7. Wonach ist die Passiv Seite der Bilanz gegliedert?  
+... 
+
 
 
 ### Abschlusspräsentationen (gerne 2-3 Wochen nach der letzten Vorlesung)
