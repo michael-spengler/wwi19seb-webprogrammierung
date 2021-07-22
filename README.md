@@ -201,9 +201,9 @@ Beispiele siehe [DHBW Chatbot](https://github.com/michael-spengler/DHBW-Learning
 4. Erste Gruppen Zwischen Präsentationen mit konkretem Punktefeedback
 5. Update aus dem Crypto Bereich  
 6. Bedarfsorientierte Deep Dives  
-7. Zeit für die Gruppenarbeiten
-8. Kostenlose https Zertificate gibt's entweder via GitHub Pages based page provisioning oder per [certbot](https://certbot.eff.org/)
-9. Client Side Password Hashing 
+7. Zeit für die Gruppenarbeiten  
+8. Kostenlose https Zertifikate gibt's entweder via GitHub Pages based page provisioning oder per [certbot](https://certbot.eff.org/)  
+9. Client Side Password Hashing  
 
 
 ### 15.7.21
